@@ -1,10 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+// this is the front end landing page
 
-function App() {
-  return (
-    <h1>Yelpington</h1>
-  );
+import './App.css'
+
+function App () {
+  return <h1>Yelpington</h1>
 }
 
-export default App;
+export default App
