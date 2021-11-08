@@ -1,0 +1,10 @@
+{
+  "id": "sams-steakhouse",
+  "name": "Sam's Steakhouse",
+  "address": "91 VT-103, Ludlow, VT 05149",
+  "phone": "(802) 228-2087",
+  "hours": "7:00 am - 3:00 pm",
+  "notes": "The best wagyu steak around!",
+  "latitude": 43.39478,
+  "longitude": -72.68093
+}

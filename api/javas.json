@@ -1,0 +1,11 @@
+{
+  "id": "javas",
+  "name": "Java Babba",
+  "address": "57 Pond St, Ludlow, VT 05149",
+  "phone": "(802) 228-7810",
+  "hours": "7:00 am - 3:00 pm",
+  "notes": "Breakfast and baked goods in a cozy setting.",
+  "latitude": 43.39693,
+  "longitude": -72.7054,
+  "website": "http://www.javababas.com/"
+}

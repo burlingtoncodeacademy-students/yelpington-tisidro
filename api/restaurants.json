@@ -1,61 +1,6 @@
 [
   {
-    "id": "stemwinder",
-    "name": "Stemwinder",
-    "address": "46 S Depot St, Ludlow, VT 05149",
-    "phone number": "(802) 228-5200",
-    "hours": "7:00 am - 3:00 pm",
-    "notes": "Unique, varied flavors that display the talent and wisdom of Wendy, the chef.",
-    "latitude": 43.39531,
-    "longitude": 72.70097
-  },
-
-  {
-    "id": "mojos",
-    "name": "Mojos",
-    "address": "Route 103",
-    "phone number": "(802)-000-0000",
-    "hours": "7:00 am - 3:00 pm",
-    "notes": "Great southwestern food that will knock your socks off!",
-    "latitude": 43.39602,
-    "longitude": 72.69696
-  },
-
-  {
-    "id": "java-babba",
-    "name": "Java Babba",
-    "address": "Route 103",
-    "phone number": "(802)-000-0000",
-    "hours": "7:00 am - 3:00 pm",
-    "notes": "Breakfast and baked goods in a cozy setting.",
-    "latitude": 43.39693,
-    "longitude": -72.7054
-  },
-
-  {
-    "id": "downtown-grocery",
-    "name": "The Downtown Grocery",
-    "address": "41 S Depot St, Ludlow, VT 05149",
-    "phone number": "((802) 228-7566",
-    "hours": "7:00 am - 3:00 pm",
-    "notes": "A treasure of farm-to-table delights.",
-    "latitude": 43.39552,
-    "longitude": 72.70102
-  },
-
-  {
-    "id": "sams-steakhouse",
-    "name": "Sam's Steakhouse",
-    "address": "91 VT-103, Ludlow, VT 05149",
-    "phone number": "(802) 228-2087",
-    "hours": "7:00 am - 3:00 pm",
-    "notes": "The best wagyu steak around!",
-    "latitude": 43.39478,
-    "longitude": -72.68093
-  },
-
-  {
-    "id": "mr-darcys",
+    "id": "darcys",
     "name": "Mr. Darcy's",
     "address": "31 Route 103 South, Ludlow, VT 05149",
     "phone number": "(802) 228-7222",
@@ -63,6 +8,39 @@
     "notes": "Great upscale burgers and amazing drinks.",
     "latitude": 43.39529,
     "longitude": -72.68278
+  },
+
+  {
+    "id": "downtowng",
+    "name": "The Downtown Grocery",
+    "address": "41 S Depot St, Ludlow, VT 05149",
+    "phone number": "((802) 228-7566",
+    "hours": "7:00 am - 3:00 pm",
+    "notes": "A treasure of farm-to-table delights.",
+    "latitude": 43.39552,
+    "longitude": -72.70102
+  },
+
+  {
+    "id": "homestyle",
+    "name": "Homestyle Hostel",
+    "address": "46 S Depot St, Ludlow, VT 05149",
+    "phone number": "(802) 228-5200",
+    "hours": "7:00 am - 3:00 pm",
+    "notes": "Unique, varied flavors that display the talent and wisdom of Wendy, the chef.",
+    "latitude": 43.396,
+    "longitude": -72.69808
+  },
+
+  {
+    "id": "javas",
+    "name": "Java Babba",
+    "address": "Route 103",
+    "phone number": "(802)-000-0000",
+    "hours": "7:00 am - 3:00 pm",
+    "notes": "Breakfast and baked goods in a cozy setting.",
+    "latitude": 43.39693,
+    "longitude": -72.7054
   },
 
   {
@@ -77,7 +55,29 @@
   },
 
   {
-    "id": "toms-loft",
+    "id": "mojos",
+    "name": "Mojos",
+    "address": "Route 103",
+    "phone number": "(802)-000-0000",
+    "hours": "7:00 am - 3:00 pm",
+    "notes": "Great southwestern food that will knock your socks off!",
+    "latitude": 43.39602,
+    "longitude": -72.69696
+  },
+
+  {
+    "id": "sams",
+    "name": "Sam's Steakhouse",
+    "address": "91 VT-103, Ludlow, VT 05149",
+    "phone number": "(802) 228-2087",
+    "hours": "7:00 am - 3:00 pm",
+    "notes": "The best wagyu steak around!",
+    "latitude": 43.39478,
+    "longitude": -72.68093
+  },
+
+  {
+    "id": "toms",
     "name": "Tom's Loft",
     "address": "300 Mountain Rd, Ludlow, VT 05149",
     "phone number": "(802) 228-5638",
