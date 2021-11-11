@@ -76,7 +76,11 @@
 }
 
 /* Styles the map block */
-#sm-map {
+#map-image {
+  display: flex;
+  max-width: 600px;
+  padding: 1vw;
+  justify-content: space-around;
 }
 
 /* Styles the restaurant information block */

@@ -3,6 +3,7 @@ import { useState, useEffect } from 'react'
 import SmMapToms from './SmMapToms.js'
 import '../styles/Rest.css'
 import NavButtons from './NavButtons.js'
+import Hangry from './Hangry.js'
 
 //Function to pull in restaurant data from the api for this restaurant. Export is done here also.
 export default function Toms () {
@@ -48,9 +49,10 @@ export default function Toms () {
               <li>Notes: {notes}</li>
             </ul>
           </div>
-          <div id='sm-map'>
+          <div id='map-image'>
             {/* Code displaying the individual restaurant map component (smaller scale) */}
             <SmMapToms />
+            <Hangry />
           </div>
         </div>
       </div>
