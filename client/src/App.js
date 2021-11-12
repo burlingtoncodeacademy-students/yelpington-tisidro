@@ -1,7 +1,4 @@
 // this is the front end landing page
-
-import './App.css'
-
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import Home from './components/Home.js'
 import Mojos from './components/Mojos.js'

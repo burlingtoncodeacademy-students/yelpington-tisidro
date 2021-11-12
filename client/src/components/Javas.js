@@ -3,6 +3,7 @@ import { useState, useEffect } from 'react'
 import SmMapJavas from './SmMapJavas.js'
 import '../styles/Rest.css'
 import NavButtons from './NavButtons.js'
+import Hangry from './Hangry.js'
 
 //Function to pull in restaurant data from the api for this restaurant. Export is done here also.
 export default function Javas () {
@@ -13,7 +14,7 @@ export default function Javas () {
   const [notes, setNotes] = useState('')
   //Fetch request in useEffect() fetches Json as a response then sets the data for the items
   useEffect(() => {
-    fetch('/api/javas')
+    fetch('/api/restaurant-id/javas')
       //this .then() takes body of response and turns it to json using .json()
       .then(res => res.json())
       //this .then() takes the data from json file and pulls out the values for each key
@@ -48,9 +49,10 @@ export default function Javas () {
               <li>Notes: {notes}</li>
             </ul>
           </div>
-          <div id='sm-map'>
+          <div id='map-image'>
             {/* Code displaying the individual restaurant map component (smaller scale) */}
             <SmMapJavas />
+            <Hangry />
           </div>
         </div>
       </div>
