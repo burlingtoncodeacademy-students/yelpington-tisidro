@@ -1,0 +1,104 @@
+#rest-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  max-width: 80vw;
+  max-height: 89vw;
+  margin-left: 15vw;
+  margin-right: 15vw;
+  padding-bottom: 2vw;
+  background-color: rgb(166, 212, 186);
+  border-radius: 60px;
+}
+
+/* INDIVIDUAL RESTAURANT COMPONENT PAGES */
+/* styles the nav bar position on pages */
+#navbar {
+}
+/* styles the navigation bar buttons */
+#nav-buttons {
+  /* items will grow to fit the navbar */
+  flex-grow: 1;
+  padding-bottom: 1vw;
+}
+
+/* colors for navigation bar buttons */
+#redBtn {
+  background-color: #c5293e;
+  border-radius: 8px;
+}
+
+#orangeBtn {
+  background-color: #cf822f;
+  border-radius: 8px;
+}
+
+#purpleBtn {
+  background-color: #9e29cd;
+  border-radius: 8px;
+}
+
+#blueBtn {
+  background-color: #2880cc;
+  border-radius: 8px;
+}
+
+#yellowBtn {
+  background-color: #ffd021;
+  border-radius: 8px;
+}
+
+#greenBtn {
+  background-color: #26ac20;
+  border-radius: 8px;
+}
+
+#goldBtn {
+  background-color: #c7c848;
+  border-radius: 8px;
+}
+#greyBtn {
+  background-color: #7a7a74;
+  border-radius: 8px;
+}
+
+/* Styles the title on pages */
+#title {
+  font-family: 'Mochiy Pop P One', sans-serif;
+  color: black;
+}
+
+#main-content {
+  display: flex;
+  max-width: 600px;
+  flex-flow: row wrap;
+}
+
+/* Styles the map block */
+#map-image {
+  display: flex;
+  max-width: 600px;
+  padding: 1vw;
+  justify-content: space-around;
+}
+
+/* Styles the restaurant information block */
+#rest-info {
+  justify-content: center;
+  background-color: rgb(248, 220, 195);
+  max-width: 50vw;
+  border-radius: 40px;
+  padding: 10px;
+  margin: 10px;
+  font-family: 'Mochiy Pop P One', sans-serif;
+}
+/* text styling for subtext 1 on Home page for restaurants */
+h2 {
+  font-family: 'Mochiy Pop P One', sans-serif;
+}
+
+/* text styling for subtext 2 on Home page for restaurants */
+h4 {
+  font-family: 'Mochiy Pop P One', sans-serif;
+}

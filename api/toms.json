@@ -1,0 +1,10 @@
+{
+  "id": "toms-loft",
+  "name": "Tom's Loft",
+  "address": "300 Mountain Rd, Ludlow, VT 05149",
+  "phone": "(802) 228-5638",
+  "hours": "7:00 am - 3:00 pm",
+  "notes": "An apres-ski pub serving some of the best food in Ludlow.",
+  "latitude": 43.40109,
+  "longitude": -72.71575
+}
