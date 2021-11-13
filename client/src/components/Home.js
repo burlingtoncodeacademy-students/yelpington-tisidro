@@ -1,7 +1,6 @@
 //Import necessary files and components
 import Map from './Map.js'
 import { Link } from 'react-router-dom'
-import '../App.css'
 import '../styles/Rest.css'
 
 export default function Home () {
